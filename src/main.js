@@ -1,5 +1,3 @@
-// Este es el punto de entrada de tu aplicacion
-
 import { Home } from './components/Home.js';
 import { Register } from './components/Register.js';
 import { Login } from './components/Login.js';
